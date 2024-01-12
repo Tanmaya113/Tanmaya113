@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Tanmaya113
+- 🏫 I'm a student of BTECH at Manipal University Jaipur
 - 👀 I’m interested in AIML and DS
 - 🌱 I’m currently learning DSA with C++
 - 💞️ I’m looking to collaborate on projects related to c/c++ and python
