@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmaya Raghuwanshi</h1>
 <h3 align="center">Turning Caffeine into Code since 2020</h3>
 
-- 🌱 I’m currently learning **DSA with c++**
+- 🌱 I’m currently learning **DSA with**
 
 - 💬 Ask me about **Python C/C++ SQL**
 
