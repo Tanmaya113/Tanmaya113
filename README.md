@@ -2,11 +2,13 @@
 ### 👋 Hi there, I'm Tanmaya Raghuwanshi!<br><br>- 🧠 **I'm currently working on** improving my skills in **machine learning** and **data science**, with hands-on projects using Python and Scikit-learn.<br><br>- 🤝 **I'm looking to collaborate on** exciting **ML projects**, especially those involving real-world datasets and predictive modeling.<br><br>- 🧩 **I'm looking for help with** **creative machine learning project ideas** that go beyond the basics — something fun, challenging, and meaningful.<br><br>- 📚 **I'm currently learning** Python for data science, **Scikit-learn**, and ML fundamentals, while also exploring model tuning and deployment.<br><br>- ❓ **Ask me about** HTML, CSS, JavaScript, C++, Java, C, SQL, Operating Systems, or Data Structures & Algorithms — I’ve got solid experience there.<br><br>- 🎉 **Fun fact**: I once wrote code that helped me win a game faster — and now I’m training machines to play (and win) on their own. 😄<br>
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZtbMSuXEfH)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not.tanmay_)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmayaraghuwanshi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmayaraghuwanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmaya-raghuwanshi-67279636b/)
+
 
 
 # 💻 Tech Stack:
